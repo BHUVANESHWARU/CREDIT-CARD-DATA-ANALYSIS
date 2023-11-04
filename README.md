@@ -1,14 +1,11 @@
 # CREDIT-CARD-DATA-ANALYSIS
 
 💳ANALYTICS IN CREDIT CARD INDUSTRY:
+
 -➢Understanding the customer behavior.
-
 -➢Personalize offering based on data results.
-
 -➢Use trends and patterns to get new customers.
-
 -➢Uncover suspicious activity.
-
 -➢Reduce chargebacks.
 
 
